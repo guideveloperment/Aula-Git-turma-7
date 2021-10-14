@@ -1,0 +1,12 @@
+jfdjjfldjf
+segunda alteração
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+
+git status
+git add nome do arquivo.txt para aletar so um arquivo em especifico
+git add. 
+git status
+git commit -m "alterando..."
+git log -> mostra o nome do commit 
+
+
